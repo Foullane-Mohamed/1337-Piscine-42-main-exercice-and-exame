@@ -18,7 +18,7 @@ int	main()
 
 	a = 10;
 	b = 5;
-	ft_div_mod(a, b, div, mod);
+	ft_div_mod(a, b, x, y);
 	printf("%d\n", x);
 	printf("%d", y);
 }
